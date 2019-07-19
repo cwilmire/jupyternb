@@ -1,2 +1,2 @@
 # jupyternb
-Playing with Jupyter
+Playing with JupyterNB

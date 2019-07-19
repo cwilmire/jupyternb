@@ -1,0 +1,28 @@
+####################################
+# Checkbook
+# https://data.delaware.gov/api/views/5s6n-7hpx/rows.csv?accessType=DOWNLOAD
+
+curl -o State_of_Delaware_Checkbook.csv https://data.delaware.gov/api/views/5s6n-7hpx/rows.csv?accessType=DOWNLOAD
+
+
+####################################
+# CCard Spend
+# https://data.delaware.gov/api/views/nurt-5rqw/rows.csv?accessType=DOWNLOAD
+
+
+curl -o State_Employee_Credit_Card_Transactions.csv https://data.delaware.gov/api/views/nurt-5rqw/rows.csv?accessType=DOWNLOAD
+
+
+####################################
+# Revenue
+# https://data.delaware.gov/api/views/it4a-m3yd/rows.csv?accessType=DOWNLOAD
+
+curl -o Revenue.csv https://data.delaware.gov/api/views/it4a-m3yd/rows.csv?accessType=DOWNLOAD
+
+
+####################################
+# Contract Spend
+# https://data.delaware.gov/api/views/sifm-293u/rows.csv?accessType=DOWNLOAD
+
+curl -o Statewide_Central_Contract_Spend.csv https://data.delaware.gov/api/views/sifm-293u/rows.csv?accessType=DOWNLOAD
+
